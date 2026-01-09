@@ -1,0 +1,20 @@
+Instructions: For each question, answer in no more than 15 words.  
+If the question asks for a person, answer only with the person's name.  
+If it asks for a place, answer only with the location.  
+If it asks for a time, prefer the year as your answer.  
+Keep all answers concise and avoid unnecessary words.
+
+Question: who sings that song nothing compares to you
+Answer: Prince
+
+Question: real housewives of atlanta married to nfl player
+Answer: Kim Zolciak
+
+Question: who played slim robinson in tour de pharmacy
+Answer: Daveed Diggs
+
+Question: what city is 50 shades of grey set in
+Answer: Vancouver
+
+Question: the first movie of planet of the apes
+Answer: Planet of the Apes
