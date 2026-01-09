@@ -74,10 +74,10 @@ python AdaFuse_two_models.py \
 
 ### Key Parameters
 
-- `--theta_delta`: Confidence threshold for adaptive decoding (default: 0.7)
+- `--theta_delta`: Confidence threshold for adaptive decoding 
   - Higher values → More conservative, fewer ensemble decisions
   - Lower values → More exploration, more ensemble decisions
-- `--max_words`: Maximum words to generate per step (2 or 3, default: 3)
+- `--max_words`: Maximum words to generate per step 
 - `--max_total_tokens`: Maximum total tokens for generation (default: 512)
 
 
